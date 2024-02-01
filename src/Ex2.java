@@ -2,8 +2,6 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Ex2 {
-    // Preciso percorer os arrays e multiplicar cada posição dos dois arrays
-    // o resulado da multiplicação deve ser adicionado ao array result
     public static void main (String[] args) {
         Random random = new Random();
         int[] result = new int[4];
